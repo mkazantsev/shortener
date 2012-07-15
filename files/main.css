@@ -1,0 +1,31 @@
+body {
+	margin: 3em 10em;
+	border: 2px solid #990033;
+}
+header {
+	font-size: 3em;
+	background-color: #ffbcb5;
+	padding: 0.2em;
+}
+table {
+	padding: 2em;
+	background-color: #a52a2a;
+	color: white;
+	width: 100%;
+	text-align: left;
+}
+table td {
+	width: 50%;
+	white-space: nowrap;
+}
+input {
+	font-size: 2em;
+}
+footer {
+	padding: 0.5em;
+	color: #5e3900;
+}
+.error {
+	color: red;
+}
+
