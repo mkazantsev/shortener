@@ -1,3 +1,5 @@
+Plain and simple URL shortener.
+
 System requirements
 ===================
 1. PHP >= 5.3
